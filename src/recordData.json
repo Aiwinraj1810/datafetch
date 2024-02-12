@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "first_name": "Tyrone",
+      "gender": "Male",
+      "email": "tpester0@washington.edu"
+    },
+    {
+      "id": "2",
+      "first_name": "Lennie",
+      "gender": "Male",
+      "email": "lwinterborne1@mapy.cz"
+    },
+    {
+      "id": "3",
+      "first_name": "Edi",
+      "gender": "Female",
+      "email": "edavidowich2@amazon.co.jp"
+    },
+    {
+      "id": "4",
+      "first_name": "Ludovico",
+      "gender": "Male",
+      "email": "lstudart3@smugmug.com"
+    },
+    {
+      "id": "5",
+      "first_name": "Barrett",
+      "gender": "Male",
+      "email": "bmattacks4@ucoz.com"
+    },
+    {
+      "id": "6",
+      "first_name": "Clemente",
+      "gender": "Male",
+      "email": "cannon5@utexas.edu"
+    },
+    {
+      "id": "7",
+      "first_name": "Leland",
+      "gender": "Bigender",
+      "email": "lgallant6@delicious.com"
+    },
+    {
+      "id": "8",
+      "first_name": "Stephanus",
+      "gender": "Male",
+      "email": "sphilippe7@princeton.edu"
+    },
+    {
+      "id": "9",
+      "first_name": "Finley",
+      "gender": "Male",
+      "email": "fmcvicar8@walmart.com"
+    },
+    {
+      "id": "10",
+      "first_name": "Tommy",
+      "gender": "Female",
+      "email": "tlytell9@myspace.com"
+    },
+    {
+      "id": "a1e1"
+    },
+    {
+      "id": "97bb"
+    },
+    {
+      "id": "fffe",
+      "name": "Aiwin Raj",
+      "email": "aiwinraj1810@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "0d12",
+      "name": "Aiwin Raj",
+      "email": "aiwinraj1810@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "8f07",
+      "name": "Aiwin Raj",
+      "email": "aiwinraj1810@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "23d4",
+      "name": "Aiwin Raj",
+      "email": "aiwinraj1810@gmail.com"
+    },
+    {
+      "id": "df5a",
+      "first_name": "",
+      "email": "aiwinraj1810@gmail.com",
+      "gender": "male",
+      "name": "Aiwin Raj"
+    },
+    {
+      "id": "2abf",
+      "first_name": "Aiwin Raj",
+      "email": "aiwinraj1810@gmail.com"
+    },
+    {
+      "id": "43a4",
+      "first_name": "Aiwin Raj",
+      "email": "male",
+      "gender": ""
+    },
+    {
+      "id": "f61b",
+      "first_name": "Aiwin Raj",
+      "email": "aiwinraj1810@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "eae9",
+      "first_name": "Aiwin Raj",
+      "email": "aiwinraj1810@gmail.com",
+      "gender": "male"
+    }
+  ]
+}
